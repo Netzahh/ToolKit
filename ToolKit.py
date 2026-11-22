@@ -181,6 +181,8 @@ if option_picker == "System Information":
     print("[System Information]")
     print("== == == == == == ==")
     print("\n")
+    print("Netzahh was here ;) ")
+    print("\n")
     print("--------------------------")
     print("Welcome " + str(os.getlogin()) + " !")
     print("--------------------------")
